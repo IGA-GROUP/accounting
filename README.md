@@ -1,2 +1,2 @@
-# kassa
+# accounting
 GUI
